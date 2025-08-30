@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35222.181
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomFeed", "CustomFeed.csproj", "{9C95F4AA-D9AC-4C7E-A41E-DF2B64E8A029}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkerService", "WorkerService\WorkerService.csproj", "{9EC81BD7-5757-4819-80AC-BFDC0B3271BE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{9C95F4AA-D9AC-4C7E-A41E-DF2B64E8A029}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9C95F4AA-D9AC-4C7E-A41E-DF2B64E8A029}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9C95F4AA-D9AC-4C7E-A41E-DF2B64E8A029}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9C95F4AA-D9AC-4C7E-A41E-DF2B64E8A029}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EC81BD7-5757-4819-80AC-BFDC0B3271BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EC81BD7-5757-4819-80AC-BFDC0B3271BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EC81BD7-5757-4819-80AC-BFDC0B3271BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EC81BD7-5757-4819-80AC-BFDC0B3271BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
