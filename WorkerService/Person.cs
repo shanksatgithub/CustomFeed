@@ -16,6 +16,9 @@
                 case 1:
                     Name = "you";
                     break;
+                case 2:
+                    Name = "they";
+                    break;
                 default:
                     break;
             }
